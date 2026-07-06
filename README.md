@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://tariksonmez.com"><img src="https://img.shields.io/badge/Web_Sitem-tariksonmez.com-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:sonmez12t@gmail.com"><img src="https://img.shields.io/badge/Email-sonmez12t@gmail.com-1A202C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tarik-sonmez"><img src="https://img.shields.io/badge/LinkedIn-Bağlantı%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tarik-sonmezz"><img src="https://img.shields.io/badge/LinkedIn-Bağlantı%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/tarik_sonmez58"><img src="https://img.shields.io/badge/Instagram-tarik__sonmez58-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
