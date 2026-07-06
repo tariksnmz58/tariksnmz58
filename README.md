@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Premium Aqua/Green Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Tarık%20Sönmez&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Freelance%20Software%20Developer&descAlignY=55&descAlign=50&fontColor=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Tarık%20Sönmez&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20&%20Computer%20Programmer&descAlignY=55&descAlign=50&fontColor=FFFFFF" width="100%" />
 
   <a href="https://tariksonmez.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Kusursuz+Web+Platformlar%C4%B1+Geliştiriyorum;Masaüstü+Yazılım+Çözümleri+Üretiyorum;Süreçleri+Otomatize+Ediyorum;Fikirleri+Dijital+Gerçekliğe+Dönüştürüyorum" alt="Typing SVG" />
